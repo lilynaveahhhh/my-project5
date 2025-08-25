@@ -29,6 +29,4 @@ It’s a simple yet powerful way to practice **event handling, DOM updates, and 
 2. Open the `index.html` file in your browser.  
 3. Use the dropdown menu to filter products by category.  
 
----
 
-## 📂 Project Structure
